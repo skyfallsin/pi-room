@@ -1,0 +1,19 @@
+{
+  "name": "pi-room",
+  "version": "1.0.0",
+  "description": "Multi-agent awareness for pi — agents discover peers, peek at their work, and steer them via tmux",
+  "keywords": ["pi-package"],
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/skyfallsin/pi-room"
+  },
+  "peerDependencies": {
+    "@mariozechner/pi-coding-agent": "*",
+    "@mariozechner/pi-ai": "*",
+    "@sinclair/typebox": "*"
+  },
+  "pi": {
+    "extensions": ["./extensions"]
+  }
+}
