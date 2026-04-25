@@ -1,3 +1,6 @@
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
+[![GitHub stars](https://img.shields.io/github/stars/skyfallsin/pi-room)](https://github.com/skyfallsin/pi-room/stargazers)
+
 # pi-room
 
 Multi-agent awareness for [pi](https://github.com/badlogic/pi-mono). Agents discover peers, peek at their work, and steer them — all through tmux.
